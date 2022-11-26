@@ -1,0 +1,39 @@
+.card{
+
+    border-radius: 0px;
+   
+    /* border-style: none; */
+    border-bottom: 5px solid rgb(8, 7, 7);
+}
+.name{
+    padding-left: 20px;
+}
+
+.symbol{
+    position: absolute;
+    left: 20%;
+}
+.cprice{
+    position: absolute;
+    left: 35%;
+}
+.tvolume{
+    position: absolute;
+    left: 55%;
+}
+
+.percent{
+    position: absolute;
+    left: 75%;
+    font-weight: 500;
+    color: green;
+    
+}
+.mprice{
+    position: absolute;
+    left: 85%;
+}
+
+
+
+
